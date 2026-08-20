@@ -24,8 +24,9 @@ Paper edition on Amazon: https://www.amazon.co.uk/ARHITECTURA-SECURITATEA-API-UR
 A production‑ready cultural API offering structured access to Romanian classical literature.  
 Built with stable endpoints, caching, rate‑limiting, and clean documentation.  
 This project showcases API architecture, content structuring, and public‑facing service design.
-https://github.com/Lavinia-81/Poezii-si-Proza-API.git
-https://culturalapi.onrender.com/
+
+Repository: https://github.com/Lavinia-81/Poezii-si-Proza-API.git  
+Live API: https://culturalapi.onrender.com/
 
 ---
 
@@ -42,6 +43,8 @@ Repository: https://github.com/Lavinia-81/Truck-Departure-Management-System.git
 A fully responsive, premium portfolio built with clean HTML/CSS/JS and a refined editorial UI/UX.  
 Designed to present projects, skills, and professional identity with clarity and visual consistency.
 
+https://portofolio-sage-one-77.vercel.app/
+
 ---
 
 ### 🔹 JavaScript Projects — UI Tools & Functional Interfaces  
@@ -54,7 +57,7 @@ Each project focuses on clarity, stability, and minimalist design principles, re
 ## Tech Stack
 
 **Front‑End:**  
-HTML • CSS • JavaScript • Responsive UI/UX • Component‑based design
+HTML • CSS • JavaScript • TypeScript • Responsive UI/UX • Component‑based design
 
 **Back‑End:**  
 Node.js • Express • REST APIs • Serverless Functions
