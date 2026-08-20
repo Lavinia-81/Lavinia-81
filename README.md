@@ -10,22 +10,42 @@ I value structure, thoughtful architecture, and products that feel mature, coher
 
 ## Featured Projects
 
-### 🔹 Cultural API — SaaS Platform  
-A real, production‑ready cultural API available publicly as a SaaS product.  
-Built with modern architecture, stable endpoints, caching, rate‑limiting, and clean documentation.  
-Live product: https://culturalapi.onrender.com/
+## 🚀 Featured Projects
 
 ### 🔹 Arhitectura API‑urilor — Technical Book & Educational Ecosystem  
-A complete educational product built around the book *ARHITECTURA ȘI SECURITATEA API-URILOR MODERNE*.  
-Includes API examples, diagrams, exercises, architectural patterns, and a full repository structure.  
+A complete educational product built around the book *ARHITECTURA ȘI SECURITATEA API‑URILOR MODERNE*.  
+The repository includes API examples, architectural diagrams, exercises, best practices, and a full documentation structure.  
+It demonstrates mature API design, security principles, and long‑term engineering discipline.  
 Repository: https://github.com/Lavinia-81/Arhitectura-API-urilor.git
 
+---
+
+### 🔹 Poezii și Proza API — Public Cultural API  
+A production‑ready cultural API offering structured access to Romanian classical literature.  
+Built with stable endpoints, caching, rate‑limiting, and clean documentation.  
+This project showcases API architecture, content structuring, and public‑facing service design.
+
+---
+
+### 🔹 Truck Departure Management System — Logistics Dashboard  
+A real operational dashboard built for logistics workflows, designed to help drivers and administrators track trailer departures, statuses, and scheduling.  
+Developed from an actual industry need, the system improves visibility, reduces communication friction, and supports daily transport operations.  
+This project demonstrates practical full‑stack development applied to real‑world business processes.
+
+Repository: https://github.com/Lavinia-81/Truck-Departure-Management-System.git
+
+---
+
 ### 🔹 Portfolio FE — Editorial‑Grade Personal Website  
-A fully responsive, premium portfolio built with clean HTML/CSS/JS, elegant UI/UX, and a refined content structure.
+A fully responsive, premium portfolio built with clean HTML/CSS/JS and a refined editorial UI/UX.  
+Designed to present projects, skills, and professional identity with clarity and visual consistency.
+
+---
 
 ### 🔹 JavaScript Projects — UI Tools & Functional Interfaces  
-A collection of clean, modular JavaScript applications, UI components, API clients, and interactive tools.  
-Each project focuses on clarity, stability, and minimalist design principles.
+A curated collection of modular JavaScript applications, UI components, API clients, and interactive tools.  
+Each project focuses on clarity, stability, and minimalist design principles, reflecting a consistent engineering style.
+
 
 ---
 
