@@ -55,7 +55,7 @@ Python • Git • GitHub • Deployment • Technical Writing
 
 ## Connect With Me  
 - **Portfolio:** [(link)  ](https://portofolio-sage-one-77.vercel.app/)
-- **LinkedIn:** [(link)  ](www.linkedin.com/in/maria-lavinia-dusca-a4300329a) 
+- **LinkedIn:** [View Profile](https://www.linkedin.com/in/maria-lavinia-dusca-a4300329a)
 - **GitHub:** [(this profile) ](https://github.com/Lavinia-81) 
 
 ---
