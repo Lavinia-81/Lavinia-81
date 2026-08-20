@@ -10,20 +10,21 @@ I value structure, thoughtful architecture, and products that feel mature, coher
 
 ## Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🔹 Arhitectura API‑urilor — Technical Book & Educational Ecosystem  
 A complete educational product built around the book *ARHITECTURA ȘI SECURITATEA API‑URILOR MODERNE*.  
 The repository includes API examples, architectural diagrams, exercises, best practices, and a full documentation structure.  
-It demonstrates mature API design, security principles, and long‑term engineering discipline.  
-Repository: https://github.com/Lavinia-81/Arhitectura-API-urilor.git
+It demonstrates mature API design, security principles, and long‑term engineering discipline.
+Repository: https://github.com/Lavinia-81/Arhitectura-API-urilor.git  
+Paper edition on Amazon: https://www.amazon.co.uk/ARHITECTURA-SECURITATEA-API-URILOR-MODERNE-Fundamentele/dp/B0HF7SRQXS
 
 ---
 
-### 🔹 Poezii și Proza API — Public Cultural API  
+### 🔹 Poezii și Proza API — Cultural API  
 A production‑ready cultural API offering structured access to Romanian classical literature.  
 Built with stable endpoints, caching, rate‑limiting, and clean documentation.  
 This project showcases API architecture, content structuring, and public‑facing service design.
+https://github.com/Lavinia-81/Poezii-si-Proza-API.git
+https://culturalapi.onrender.com/
 
 ---
 
