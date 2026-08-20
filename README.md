@@ -14,6 +14,7 @@ I value structure, thoughtful architecture, and products that feel mature, coher
 A complete educational product built around the book *ARHITECTURA ȘI SECURITATEA API‑URILOR MODERNE*.  
 The repository includes API examples, architectural diagrams, exercises, best practices, and a full documentation structure.  
 It demonstrates mature API design, security principles, and long‑term engineering discipline.
+
 Repository: https://github.com/Lavinia-81/Arhitectura-API-urilor.git  
 Paper edition on Amazon: https://www.amazon.co.uk/ARHITECTURA-SECURITATEA-API-URILOR-MODERNE-Fundamentele/dp/B0HF7SRQXS
 
