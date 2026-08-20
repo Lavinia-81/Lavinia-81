@@ -43,7 +43,7 @@ Repository: https://github.com/Lavinia-81/Truck-Departure-Management-System.git
 A fully responsive, premium portfolio built with clean HTML/CSS/JS and a refined editorial UI/UX.  
 Designed to present projects, skills, and professional identity with clarity and visual consistency.
 
-Portofolio: https://portofolio-sage-one-77.vercel.app/
+Portfolio: https://portofolio-sage-one-77.vercel.app/
 
 ---
 
